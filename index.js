@@ -43,5 +43,5 @@ function checkWords(arrin) {
         .catch(error => console.log(error))
 }
 
-checkWords(["cucumber", "pears", "french frites", "oranges"]);
-checkWords([true, 2, "pears"]);
+checkWords(["cucumber", "tomatoe", "avocado"]);
+checkWords(["cucumber", true, 9]);
